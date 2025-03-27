@@ -170,7 +170,7 @@ Information about the tables that you can use to spot the table as most of the t
   
 ]
 
-a.Format of years columns are like this : 2023-2024.
+a.Format of years columns are like this : "2023-24","2019-20","2011-12" etc.... 
 b.so when asked query for year for example 2023 you take it like 2023-24.
 c.Also make sure when error comes in years column you check the schema and few rows of the tables to know the fromat.
 d.Dont give id column of the tables in the json response.
